@@ -1,9 +1,11 @@
 # Coffee Shop Sales Dashboard
 
-##  Overview
-This Excel dashboard offers a detailed and interactive representation of the sales performance for a coffee shop chain. It is designed to help users explore revenue trends, analyze product-level performance, and gain store-specific insights through dynamic filters and visually appealing charts.
+<p align="justify">
+This Excel dashboard offers a detailed and interactive representation of the sales performance for a coffee shop chain. It is designed to help users <b>explore revenue trends</b>, <b>analyze product-level performance</b>, and <b>gain store-specific insights through dynamic filters</b> and <b>visually appealing charts</b>.
+</p>
 
 ## Key Features
+
 - **Interactive Filters**:
   - Allows to quickly filter data by **Store** (e.g., Astoria, Hell’s Kitchen, Lower Manhattan).
   - Drill down into **Product Categories** such as Bakery, Coffee, Tea, and Drinking Chocolate.
@@ -16,10 +18,22 @@ This Excel dashboard offers a detailed and interactive representation of the sal
 - A **dark mode version** includes an alternate sheet with a sleek dark theme for enhanced visual appeal and presentation flexibility.
 
 ## Insights from Dashboard
+
 - **Top Performing Products**: Coffee dominates with **58,116 transactions**, followed by Tea with **45,480 transactions** and Bakery Items with **22,796 transactions**, indicating strong customer preference for beverages over food.
 - **Revenue Growth**: A significant upward trend is observed from **March (\$88,815)** to **June (\$1,095,695)**, suggesting seasonal demand or successful promotional campaigns.
 - **Peak Sales Hours**: The highest revenue occurs between **8 AM and 10 PM**, indicating that customers prefer coffee and tea in the morning than later in the day, making this period critical for resource allocation.
 - **Weekday Performance**: **Monday, Thursday and Friday consistently records the highest revenue**, which may indicate increased customer activity before and after weekends.
 
-## Preview
-![Coffee Shop Sales Dashboard]()
+## Previews
+
+#### 1. Dashboard in light mode
+
+![Dashboard_light](https://github.com/TSgthb/Excel_Projects/blob/main/Coffee%20Shop%20Sales%20Dashboard/Images/Dashboard_Light.png)
+
+#### 2. Dashboard in dark mode
+
+![Dashboard_dark](https://github.com/TSgthb/Excel_Projects/blob/main/Coffee%20Shop%20Sales%20Dashboard/Images/Dashboard_Dark.png)
+
+#### 3. Filtered data
+
+![Filtered_dashboard](https://github.com/TSgthb/Excel_Projects/blob/main/Coffee%20Shop%20Sales%20Dashboard/Images/Filtered_Dashboard.png)
