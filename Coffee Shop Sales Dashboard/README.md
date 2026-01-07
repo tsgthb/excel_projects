@@ -17,7 +17,7 @@ This Excel dashboard offers a detailed and interactive representation of the sal
 - **Detailed data table** which displays **Top 10 Products** with **Total Transactions**, and **Total Revenue**, ordered by the revenue generated in descending order, enabling granular analysis of performance.
 - A **dark mode version** includes an alternate sheet with a sleek dark theme for enhanced visual appeal and presentation flexibility.
 
-## Insights from Dashboard
+## Dashboard Insights
 
 - **Top Performing Products**: Coffee dominates with **58,116 transactions**, followed by Tea with **45,480 transactions** and Bakery Items with **22,796 transactions**, indicating strong customer preference for beverages over food.
 - **Revenue Growth**: A significant upward trend is observed from **March (\$88,815)** to **June (\$1,095,695)**, suggesting seasonal demand or successful promotional campaigns.
