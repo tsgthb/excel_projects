@@ -1,4 +1,4 @@
-# Excel Projects
+# Excel Projects Repository
 
 <p align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -22,3 +22,4 @@ This repository contains <b>Excel</b> based analytics projects that walk through
 - __Excel Projects__
     - [*Coffee Shop Sales Dashboard*](https://github.com/TSgthb/Excel_Projects/tree/main/Coffee%20Shop%20Sales%20Dashboard)
     - [*Transportation Details Dashboard*](https://github.com/TSgthb/Excel_Projects/tree/main/Transportation%20Dashboard)
+
