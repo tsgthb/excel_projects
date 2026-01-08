@@ -39,7 +39,8 @@ This Excel dashboard presents a clear and structured view of commuter activity a
 
 ![Dashboard](https://github.com/TSgthb/Excel_Projects/blob/main/Transportation%20Dashboard/Images/Dashboard.png)
 
-#### 1. Calculations
+#### 3. Calculations
 
 ![Dashboard](https://github.com/TSgthb/Excel_Projects/blob/main/Transportation%20Dashboard/Images/Dashboard_Calculations.png)
+
 
